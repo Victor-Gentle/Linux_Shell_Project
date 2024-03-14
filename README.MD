@@ -34,9 +34,9 @@ The project consists of a Bash script file named multiplication_table_generator.
 
 ## How to Use
 - Clone the Repository: Clone this repository to your local machine.
-    git clone https://github.com/your_username/multiplication-table-generator.git
+    git clone https://github.com/your_username/repo_name.git
 - Navigate to the Project Directory: Enter the project directory.
-    cd multiplication-table-generator
+    cd repo_name
 - Run the Script: Execute the Bash script.
     bash multiplication_table_generator.sh
 - Follow On-Screen Prompts: Follow the on-screen prompts to input the number and choose the table range.
